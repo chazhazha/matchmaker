@@ -1,0 +1,51 @@
+19:20:08.206 HTTP listening on *:90
+19:20:08.206 Matchmaker listening on *:9999
+19:22:51.604 Message TYPE: connect
+19:22:51.606 Adding connection for 10 with playerConnected: false
+19:23:21.617 Message TYPE: ping
+19:23:51.652 Message TYPE: ping
+19:24:21.673 Message TYPE: ping
+19:24:51.699 Message TYPE: ping
+19:25:21.724 Message TYPE: ping
+19:25:51.751 Message TYPE: ping
+19:26:21.782 Message TYPE: ping
+19:26:51.804 Message TYPE: ping
+19:27:21.835 Message TYPE: ping
+19:27:31.027 WARNING: No empty Cirrus servers are available
+19:27:43.513 WARNING: No empty Cirrus servers are available
+19:27:51.860 Message TYPE: ping
+19:28:21.875 Message TYPE: ping
+19:28:51.903 Message TYPE: ping
+19:29:21.910 Message TYPE: ping
+19:31:18.377 Message TYPE: connect
+19:31:18.379 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+19:31:18.380 Replacing server with original with numConn: 0
+19:31:48.401 Message TYPE: ping
+19:32:18.427 Message TYPE: ping
+19:32:48.434 Message TYPE: ping
+19:33:18.459 Message TYPE: ping
+19:33:48.504 Message TYPE: ping
+19:34:18.501 Message TYPE: ping
+19:34:48.512 Message TYPE: ping
+19:35:18.555 Message TYPE: ping
+19:35:48.585 Message TYPE: ping
+19:36:18.610 Message TYPE: ping
+19:36:48.614 Message TYPE: ping
+20:03:18.761 Message TYPE: connect
+20:03:18.761 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+20:03:18.761 Replacing server with original with numConn: 0
+20:03:21.063 Message TYPE: streamerConnected
+20:03:21.063 Cirrus server 10.1.112.83:88 ready for use
+20:03:27.848 Redirect to 10.1.112.83:88
+20:03:31.257 Message TYPE: clientConnected
+20:03:31.257 Client connected to Cirrus server 10.1.112.83:88
+20:03:48.765 Message TYPE: ping
+20:04:18.791 Message TYPE: ping
+20:04:48.819 Message TYPE: ping
+20:05:18.844 Message TYPE: ping
+20:05:48.869 Message TYPE: ping
+20:05:56.274 Message TYPE: clientDisconnected
+20:05:56.275 Client disconnected from Cirrus server 10.1.112.83:88
+20:06:17.184 Message TYPE: streamerDisconnected
+20:06:17.184 Cirrus server 10.1.112.83:88 no longer ready for use
+20:06:18.880 Message TYPE: ping

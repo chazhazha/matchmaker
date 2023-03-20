@@ -1,0 +1,21 @@
+21:04:30.126 HTTP listening on *:90
+21:04:30.126 Matchmaker listening on *:9999
+21:04:52.817 Message TYPE: streamerConnected
+21:04:52.818 Ending connection to remote address ::ffff:10.1.112.83
+21:04:52.825 ERROR (SyntaxError: Unexpected token { in JSON at position 15): Failed to parse Cirrus information from data: {"type":"ping"}{"type":"ping"}{"type":"connect","address":"10.1.112.83","port":85,"ready":true,"playerConnected":false}
+21:04:52.826 Ending connection to remote address ::ffff:10.1.112.83
+21:04:57.840 Message TYPE: connect
+21:04:57.840 Adding connection for 10 with playerConnected: false
+21:05:02.859 Message TYPE: connect
+21:05:02.860 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+21:05:02.860 Replacing server with original with numConn: 0
+21:14:54.495 Message TYPE: connect
+21:14:54.496 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+21:14:54.496 Replacing server with original with numConn: 0
+21:14:56.823 Message TYPE: streamerConnected
+21:14:56.825 Cirrus server 10.1.112.83:85 ready for use
+21:15:24.511 Message TYPE: ping
+21:15:54.529 Message TYPE: ping
+21:16:24.304 Message TYPE: streamerDisconnected
+21:16:24.304 Cirrus server 10.1.112.83:85 no longer ready for use
+21:16:24.525 Message TYPE: ping

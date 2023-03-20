@@ -1,0 +1,53 @@
+00:10:14.031 HTTP listening on *:90
+00:10:14.031 Matchmaker listening on *:9999
+01:33:23.829 Message TYPE: connect
+01:33:23.832 Adding connection for 10 with playerConnected: false
+01:33:53.800 Message TYPE: ping
+01:34:23.805 Message TYPE: ping
+01:34:53.808 Message TYPE: ping
+01:35:23.821 Message TYPE: ping
+01:35:53.838 Message TYPE: ping
+01:36:23.841 Message TYPE: ping
+01:38:08.818 Message TYPE: connect
+01:38:08.820 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+01:38:08.820 Replacing server with original with numConn: 0
+01:38:38.842 Message TYPE: ping
+01:39:08.862 Message TYPE: ping
+01:39:38.871 Message TYPE: ping
+01:50:01.233 Message TYPE: connect
+01:50:01.234 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+01:50:01.234 Replacing server with original with numConn: 0
+01:50:31.251 Message TYPE: ping
+01:51:01.281 Message TYPE: ping
+01:51:31.312 Message TYPE: ping
+01:52:01.332 Message TYPE: ping
+01:52:31.360 Message TYPE: ping
+02:28:58.786 Message TYPE: connect
+02:28:58.787 Adding connection for 10 with playerConnected: false
+02:29:01.172 Message TYPE: streamerConnected
+02:29:01.173 Cirrus server 10.1.112.83:88 ready for use
+02:29:28.806 Message TYPE: ping
+02:29:58.825 Message TYPE: ping
+02:30:28.825 Message TYPE: ping
+02:30:58.856 Message TYPE: ping
+02:31:28.879 Message TYPE: ping
+02:31:58.913 Message TYPE: ping
+02:32:28.938 Message TYPE: ping
+02:32:58.965 Message TYPE: ping
+02:33:28.981 Message TYPE: ping
+02:33:59.012 Message TYPE: ping
+02:34:29.039 Message TYPE: ping
+02:34:59.045 Message TYPE: ping
+02:35:29.071 Message TYPE: ping
+02:35:59.095 Message TYPE: ping
+02:36:21.024 Redirect to 10.1.112.83:88
+02:36:27.279 Message TYPE: clientConnected
+02:36:27.279 Client connected to Cirrus server 10.1.112.83:88
+02:36:29.094 Message TYPE: ping
+02:36:59.132 Message TYPE: ping
+02:37:29.152 Message TYPE: ping
+02:37:38.570 Message TYPE: clientDisconnected
+02:37:38.571 Client disconnected from Cirrus server 10.1.112.83:88
+02:37:52.320 Message TYPE: streamerDisconnected
+02:37:52.320 Cirrus server 10.1.112.83:88 no longer ready for use
+02:37:59.157 Message TYPE: ping

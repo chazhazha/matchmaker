@@ -1,0 +1,56 @@
+21:05:42.524 HTTP listening on *:90
+21:05:42.524 Matchmaker listening on *:9999
+21:05:53.500 Message TYPE: connect
+21:05:53.501 Adding connection for 10 with playerConnected: false
+21:05:55.562 Message TYPE: streamerConnected
+21:05:55.562 Cirrus server 10.1.112.83:83 ready for use
+21:06:05.706 Message TYPE: connect
+21:06:05.706 Adding connection for 10 with playerConnected: false
+21:06:07.959 Message TYPE: streamerConnected
+21:06:07.960 Cirrus server 10.1.112.83:82 ready for use
+21:06:23.491 Message TYPE: ping
+21:06:35.706 Message TYPE: ping
+21:06:53.532 Message TYPE: ping
+21:07:05.749 Message TYPE: ping
+21:07:23.562 Message TYPE: ping
+21:07:27.218 Redirect to 10.1.112.83:83
+21:07:29.954 Message TYPE: clientConnected
+21:07:29.954 Client connected to Cirrus server 10.1.112.83:83
+21:07:35.771 Message TYPE: ping
+21:07:53.570 Message TYPE: ping
+21:08:05.794 Message TYPE: ping
+21:08:11.910 Redirect to 10.1.112.83:82
+21:08:12.496 Message TYPE: clientConnected
+21:08:12.497 Client connected to Cirrus server 10.1.112.83:82
+21:08:23.598 Message TYPE: ping
+21:08:35.808 Message TYPE: ping
+21:08:40.081 Message TYPE: connect
+21:08:40.081 Adding connection for 10 with playerConnected: false
+21:08:42.426 Message TYPE: streamerConnected
+21:08:42.426 Cirrus server 10.1.112.83:80 ready for use
+21:08:53.626 Message TYPE: ping
+21:09:05.835 Message TYPE: ping
+21:09:10.071 Message TYPE: ping
+21:09:23.652 Message TYPE: ping
+21:09:35.859 Message TYPE: ping
+21:09:37.161 Redirect to 10.1.112.83:80
+21:09:37.822 Message TYPE: clientConnected
+21:09:37.822 Client connected to Cirrus server 10.1.112.83:80
+21:09:40.095 Message TYPE: ping
+21:09:53.680 Message TYPE: ping
+21:09:55.075 WARNING: No empty Cirrus servers are available
+21:10:05.887 Message TYPE: ping
+21:10:10.102 Message TYPE: ping
+21:10:23.707 Message TYPE: ping
+21:10:30.400 Message TYPE: connect
+21:10:30.400 Adding connection for 10 with playerConnected: false
+21:10:35.911 Message TYPE: ping
+21:10:40.098 Message TYPE: ping
+21:10:53.734 Message TYPE: ping
+21:11:00.424 Message TYPE: ping
+21:11:05.942 Message TYPE: ping
+21:11:10.122 Message TYPE: ping
+21:11:23.762 Message TYPE: ping
+21:11:30.449 Message TYPE: ping
+21:11:35.963 Message TYPE: ping
+21:11:40.148 Message TYPE: ping

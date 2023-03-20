@@ -1,0 +1,26 @@
+16:07:03.235 HTTP listening on *:90
+16:07:03.235 Matchmaker listening on *:9999
+16:10:10.542 WARNING: No empty Cirrus servers are available
+16:10:18.614 WARNING: No empty Cirrus servers are available
+16:10:26.652 WARNING: No empty Cirrus servers are available
+16:10:34.709 WARNING: No empty Cirrus servers are available
+16:10:42.779 WARNING: No empty Cirrus servers are available
+16:10:50.824 WARNING: No empty Cirrus servers are available
+16:10:58.875 WARNING: No empty Cirrus servers are available
+16:11:06.921 WARNING: No empty Cirrus servers are available
+16:11:14.965 WARNING: No empty Cirrus servers are available
+16:11:23.023 WARNING: No empty Cirrus servers are available
+16:11:31.093 WARNING: No empty Cirrus servers are available
+16:11:32.054 Message TYPE: connect
+16:11:32.055 Adding connection for 10 with playerConnected: false
+16:11:34.242 Message TYPE: streamerConnected
+16:11:34.243 Cirrus server 10.1.112.83:88 ready for use
+16:11:39.207 Redirect to 10.1.112.83:88
+16:11:40.454 Message TYPE: clientConnected
+16:11:40.454 Client connected to Cirrus server 10.1.112.83:88
+16:12:02.020 Message TYPE: ping
+16:12:25.381 Message TYPE: streamerDisconnected
+16:12:25.381 Cirrus server 10.1.112.83:88 no longer ready for use
+16:12:25.441 Message TYPE: clientDisconnected
+16:12:25.441 Client disconnected from Cirrus server 10.1.112.83:88
+16:12:32.102 Message TYPE: ping

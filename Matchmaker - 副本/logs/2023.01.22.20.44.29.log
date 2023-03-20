@@ -1,0 +1,13 @@
+20:44:29.140 HTTP listening on *:90
+20:44:29.140 Matchmaker listening on *:9999
+21:00:44.870 Message TYPE: connect
+21:00:44.871 Adding connection for 10 with playerConnected: false
+21:00:47.043 Message TYPE: streamerConnected
+21:00:47.045 Cirrus server 10.1.112.83:85 ready for use
+21:01:14.886 Message TYPE: ping
+21:01:44.914 Message TYPE: ping
+21:01:53.130 Message TYPE: clientConnected
+21:01:53.131 Client connected to Cirrus server 10.1.112.83:85
+21:02:14.928 Message TYPE: ping
+21:02:20.240 Message TYPE: clientDisconnected
+21:02:20.241 Client disconnected from Cirrus server 10.1.112.83:85

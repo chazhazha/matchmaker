@@ -1,0 +1,41 @@
+15:56:37.806 HTTP listening on *:90
+15:56:37.807 Matchmaker listening on *:9999
+16:26:51.738 Message TYPE: connect
+16:26:51.738 Adding connection for 10 with playerConnected: false
+16:26:54.015 Message TYPE: streamerConnected
+16:26:54.016 Cirrus server 10.1.112.83:88 ready for use
+16:27:21.757 Message TYPE: ping
+16:27:51.791 Message TYPE: ping
+16:28:01.029 Redirect to 10.1.112.83:88
+16:28:03.628 Message TYPE: clientConnected
+16:28:03.629 Client connected to Cirrus server 10.1.112.83:88
+16:28:21.806 Message TYPE: ping
+16:28:51.822 Message TYPE: ping
+16:29:09.518 Message TYPE: clientDisconnected
+16:29:09.518 Client disconnected from Cirrus server 10.1.112.83:88
+16:29:21.835 Message TYPE: ping
+16:29:51.865 Message TYPE: ping
+16:30:21.890 Message TYPE: ping
+16:30:51.908 Message TYPE: ping
+16:31:21.929 Message TYPE: ping
+16:31:51.955 Message TYPE: ping
+16:32:21.981 Message TYPE: ping
+16:32:52.020 Message TYPE: ping
+16:33:22.043 Message TYPE: ping
+16:33:52.053 Message TYPE: ping
+16:34:07.795 Message TYPE: streamerDisconnected
+16:34:07.796 Cirrus server 10.1.112.83:88 no longer ready for use
+17:01:33.749 WARNING: No empty Cirrus servers are available
+17:01:41.413 Message TYPE: connect
+17:01:41.414 Adding connection for 10 with playerConnected: false
+17:01:41.802 WARNING: No empty Cirrus servers are available
+17:01:43.608 Message TYPE: streamerConnected
+17:01:43.609 Cirrus server 10.1.112.83:89 ready for use
+17:01:49.824 Redirect to 10.1.112.83:89
+17:01:52.145 Message TYPE: clientConnected
+17:01:52.146 Client connected to Cirrus server 10.1.112.83:89
+17:02:05.606 Message TYPE: clientDisconnected
+17:02:05.606 Client disconnected from Cirrus server 10.1.112.83:89
+17:02:11.409 Message TYPE: ping
+17:02:18.266 Message TYPE: streamerDisconnected
+17:02:18.266 Cirrus server 10.1.112.83:89 no longer ready for use

@@ -1,0 +1,98 @@
+13:05:22.025 HTTP listening on *:90
+13:05:22.025 Matchmaker listening on *:9999
+13:28:53.056 Message TYPE: connect
+13:28:53.057 Adding connection for 10 with playerConnected: false
+13:28:55.438 Message TYPE: streamerConnected
+13:28:55.439 Cirrus server 10.1.112.83:85 ready for use
+13:29:23.063 Message TYPE: ping
+13:29:24.598 Redirect to 10.1.112.83:85
+13:29:26.600 Message TYPE: clientConnected
+13:29:26.601 Client connected to Cirrus server 10.1.112.83:85
+13:29:53.089 Message TYPE: ping
+13:30:23.111 Message TYPE: ping
+13:30:26.032 Message TYPE: streamerDisconnected
+13:30:26.032 Cirrus server 10.1.112.83:85 no longer ready for use
+13:30:26.081 Message TYPE: clientDisconnected
+13:30:26.081 Client disconnected from Cirrus server 10.1.112.83:85
+13:33:36.195 Message TYPE: connect
+13:33:36.195 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+13:33:36.196 Replacing server with original with numConn: 0
+13:33:38.506 Message TYPE: streamerConnected
+13:33:38.506 Cirrus server 10.1.112.83:85 ready for use
+13:33:51.648 Message TYPE: clientConnected
+13:33:51.648 Client connected to Cirrus server 10.1.112.83:85
+13:34:05.883 Message TYPE: streamerDisconnected
+13:34:05.883 Cirrus server 10.1.112.83:85 no longer ready for use
+13:34:05.926 Message TYPE: clientDisconnected
+13:34:05.926 Client disconnected from Cirrus server 10.1.112.83:85
+13:34:06.188 Message TYPE: ping
+13:36:54.453 Message TYPE: connect
+13:36:54.454 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+13:36:54.454 Replacing server with original with numConn: 0
+13:36:56.834 Message TYPE: streamerConnected
+13:36:56.834 Cirrus server 10.1.112.83:85 ready for use
+13:36:59.610 Message TYPE: clientConnected
+13:36:59.611 Client connected to Cirrus server 10.1.112.83:85
+13:37:19.716 Message TYPE: streamerDisconnected
+13:37:19.717 Cirrus server 10.1.112.83:85 no longer ready for use
+13:37:19.769 Message TYPE: clientDisconnected
+13:37:19.769 Client disconnected from Cirrus server 10.1.112.83:85
+13:37:24.451 Message TYPE: ping
+13:56:40.795 Message TYPE: connect
+13:56:40.796 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+13:56:40.796 Replacing server with original with numConn: 0
+13:56:43.089 Message TYPE: streamerConnected
+13:56:43.090 Cirrus server 10.1.112.83:85 ready for use
+13:56:45.959 Message TYPE: clientConnected
+13:56:45.959 Client connected to Cirrus server 10.1.112.83:85
+13:57:09.389 Message TYPE: streamerDisconnected
+13:57:09.389 Cirrus server 10.1.112.83:85 no longer ready for use
+13:57:09.438 Message TYPE: clientDisconnected
+13:57:09.439 Client disconnected from Cirrus server 10.1.112.83:85
+13:57:10.787 Message TYPE: ping
+14:03:25.690 Message TYPE: connect
+14:03:25.690 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+14:03:25.691 Replacing server with original with numConn: 0
+14:03:27.975 Message TYPE: streamerConnected
+14:03:27.976 Cirrus server 10.1.112.83:85 ready for use
+14:03:32.165 Message TYPE: clientConnected
+14:03:32.165 Client connected to Cirrus server 10.1.112.83:85
+14:03:46.044 Message TYPE: clientDisconnected
+14:03:46.044 Client disconnected from Cirrus server 10.1.112.83:85
+14:03:47.347 Message TYPE: clientConnected
+14:03:47.348 Client connected to Cirrus server 10.1.112.83:85
+14:03:55.678 Message TYPE: ping
+14:04:01.957 Message TYPE: streamerDisconnected
+14:04:01.957 Cirrus server 10.1.112.83:85 no longer ready for use
+14:04:02.021 Message TYPE: clientDisconnected
+14:04:02.021 Client disconnected from Cirrus server 10.1.112.83:85
+14:11:07.634 Message TYPE: connect
+14:11:07.635 RECONNECT: cirrus server address 10 already found--replacing. playerConnected: false
+14:11:07.635 Replacing server with original with numConn: 0
+14:11:09.916 Message TYPE: streamerConnected
+14:11:09.917 Cirrus server 10.1.112.83:85 ready for use
+14:11:16.382 Redirect to 10.1.112.83:85
+14:11:21.469 Message TYPE: clientConnected
+14:11:21.469 Client connected to Cirrus server 10.1.112.83:85
+14:11:37.633 Message TYPE: ping
+14:12:07.663 Message TYPE: ping
+14:12:37.688 Message TYPE: ping
+14:13:04.325 Message TYPE: streamerDisconnected
+14:13:04.326 Cirrus server 10.1.112.83:85 no longer ready for use
+14:13:04.384 Message TYPE: clientDisconnected
+14:13:04.384 Client disconnected from Cirrus server 10.1.112.83:85
+14:13:07.695 Message TYPE: ping
+14:16:39.497 Message TYPE: connect
+14:16:39.497 Adding connection for 10 with playerConnected: false
+14:16:41.810 Message TYPE: streamerConnected
+14:16:41.811 Cirrus server 10.1.112.83:86 ready for use
+14:17:00.086 Message TYPE: clientConnected
+14:17:00.086 Client connected to Cirrus server 10.1.112.83:86
+14:17:09.489 Message TYPE: ping
+14:17:39.517 Message TYPE: ping
+14:18:09.542 Message TYPE: ping
+14:18:39.571 Message TYPE: ping
+14:18:48.483 Message TYPE: streamerDisconnected
+14:18:48.483 Cirrus server 10.1.112.83:86 no longer ready for use
+14:18:48.541 Message TYPE: clientDisconnected
+14:18:48.542 Client disconnected from Cirrus server 10.1.112.83:86
